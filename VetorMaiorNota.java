@@ -1,7 +1,7 @@
 import java.util.Random;
 public class VetorMaiorNota {
 	public static void main(String[] args) {
-		System.out.println("Bem vindo ao programa de exercício de vetor! Iremos exercitar a seleção de maiores notas em uma turma de alunos!");
+		System.out.println("Bem vindo ao programa de exercício de vetor! Iremos exercitar a seleção da maior nota em uma turma de alunos!");
 		System.out.println("Criando turma de alunos...");
 		int notas[] = new int[20];
 		System.out.println("A turma de alunos foi criada! Agora vamos atribuir notas para os alunos...");
